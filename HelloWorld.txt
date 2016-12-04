@@ -1,4 +1,8 @@
 Hello World.
+
+# Windows setup
 This should be second push. :)
 
+# Ubutnu setup
 Setting up Ubuntu box.
+Seems GIT is working here too.
